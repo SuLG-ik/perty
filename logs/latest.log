@@ -1,0 +1,347 @@
+[17:12:56] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[17:12:57] [Server thread/INFO]: Loading properties
+[17:12:57] [Server thread/INFO]: Default game type: CREATIVE
+[17:12:57] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[17:12:57] [Server thread/INFO]: Debug logging is disabled
+[17:12:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:12:57] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:12:57] [Server thread/INFO]: Generating keypair
+[17:12:57] [Server thread/INFO]: Starting Minecraft server on 192.168.0.110:25565
+[17:12:57] [Server thread/INFO]: Using default channel type
+[17:12:57] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[17:12:57] [Server thread/INFO]: [PertyCraftNetwork] Loading PertyCraftNetwork v2.0
+[17:12:57] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.2;b3fbe8b
+[17:12:57] [Server thread/INFO]: [PertyCraft] Loading PertyCraft v1.0
+[17:12:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:12:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:12:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:12:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:12:57] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[17:12:57] [Server thread/INFO]: Preparing level "world"
+[17:12:57] [Server thread/INFO]: -------- World Settings For [world] --------
+[17:12:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:12:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:12:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:12:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:12:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:12:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:12:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:12:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:12:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:12:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:12:57] [Server thread/INFO]: Anti X-Ray: true
+[17:12:57] [Server thread/INFO]: 	Engine Mode: 1
+[17:12:57] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[17:12:57] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[17:12:57] [Server thread/INFO]: Mob Spawn Range: 4
+[17:12:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:12:57] [Server thread/INFO]: View Distance: 10
+[17:12:57] [Server thread/INFO]: Sending up to 10 chunks per packet
+[17:12:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:12:57] [Server thread/INFO]: Max TNT Explosions: 100
+[17:12:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:12:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:12:57] [Server thread/INFO]: Max Entity Collisions: 8
+[17:12:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[17:12:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:12:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:12:57] [Server thread/INFO]: Random Lighting Updates: false
+[17:12:57] [Server thread/INFO]: Structure Info Saving: true
+[17:12:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[17:12:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:12:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:12:57] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[17:12:57] [Server thread/INFO]: Clear tick list: false
+[17:12:57] [Server thread/INFO]: Preparing start region for level 0 (Seed: -5919127177790044534)
+[17:12:58] [Server thread/INFO]: [PertyCraftNetwork] Enabling PertyCraftNetwork v2.0
+[17:12:58] [Server thread/INFO]: [PertyCraftNetwork] Enabled!
+[17:12:58] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.2;b3fbe8b
+[17:12:58] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[17:12:58] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[17:12:58] [Server thread/INFO]: [PertyCraft] Enabling PertyCraft v1.0
+[17:12:58] [Server thread/INFO]: [PertyCraft] Creating file...
+[17:12:58] [Server thread/INFO]: [PertyCraft] File test.yml created!
+[17:12:58] [Server thread/INFO]: [PertyCraft] Enabled!
+[17:12:58] [Server thread/WARN]: Could not register alias gamemode because it contains commands that do not exist: gm
+[17:12:58] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:12:58] [Server thread/INFO]: Done (0,739s)! For help, type "help" or "?"
+[17:14:40] [Thread-9/INFO]: UUID of player PertyPanckes_YT is b79b1e2b-27b9-3bcb-9de2-310bc60e7edc
+[17:14:40] [Server thread/INFO]: PertyPanckes_YT[/10.104.7.36:54277] logged in with entity id 0 at ([world]1159.0247063961385, 29.0, 1533.7328029228845)
+[17:17:49] [Server thread/INFO]: PertyPanckes_YT lost connection: Disconnected
+[17:17:49] [Server thread/INFO]: PertyPanckes_YT left the game.
+[17:18:01] [Thread-10/INFO]: UUID of player PertyPanckes_YT is b79b1e2b-27b9-3bcb-9de2-310bc60e7edc
+[17:18:01] [Server thread/INFO]: PertyPanckes_YT[/10.104.7.36:54313] logged in with entity id 2 at ([world]1158.8871793689332, 29.24965011568769, 1535.7940446333616)
+[17:18:33] [Server thread/INFO]: PertyPanckes_YT lost connection: Disconnected
+[17:18:33] [Server thread/INFO]: PertyPanckes_YT left the game.
+[17:18:45] [Thread-11/INFO]: UUID of player PertyPanckes_YT is b79b1e2b-27b9-3bcb-9de2-310bc60e7edc
+[17:18:45] [Server thread/INFO]: PertyPanckes_YT[/10.104.7.36:54321] logged in with entity id 3 at ([world]1159.17944790887, 29.24931154547642, 1532.5931071563607)
+[17:20:42] [Server thread/INFO]: PertyPanckes_YT issued server command: /whitelist on
+[17:20:42] [Server thread/INFO]: [PertyPanckes_YT: Turned on the whitelist]
+[17:20:44] [Server thread/INFO]: PertyPanckes_YT issued server command: /whitelist off
+[17:20:44] [Server thread/INFO]: [PertyPanckes_YT: Turned off the whitelist]
+[17:21:18] [Server thread/INFO]: PertyPanckes_YT issued server command: //wand
+[17:21:29] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 2
+[17:25:05] [Server thread/INFO]: PertyPanckes_YT issued server command: /setworldspawn
+[17:25:05] [Server thread/INFO]: [PertyPanckes_YT: Set the world spawn point to (1210, 29, 1572)]
+[17:25:57] [Server thread/INFO]: PertyPanckes_YT issued server command: /whitelist add kazuuto
+[17:25:59] [Server thread/INFO]: [PertyPanckes_YT: Added kazuuto to the whitelist]
+[17:28:10] [Server thread/INFO]: PertyPanckes_YT issued server command: /pl
+[17:28:41] [Server thread/INFO]: PertyPanckes_YT lost connection: Disconnected
+[17:28:41] [Server thread/INFO]: PertyPanckes_YT left the game.
+[17:29:28] [Thread-12/INFO]: UUID of player PertyPanckes_YT is b79b1e2b-27b9-3bcb-9de2-310bc60e7edc
+[17:29:28] [Server thread/INFO]: PertyPanckes_YT[/10.104.7.36:54437] logged in with entity id 4 at ([world]1208.357319587584, 29.0, 1574.681032878134)
+[17:30:08] [Server thread/INFO]: PertyPanckes_YT lost connection: Internal Exception: java.io.IOException: Удаленный хост принудительно разорвал существующее подключение
+[17:30:08] [Server thread/INFO]: PertyPanckes_YT left the game.
+[18:37:15] [Thread-13/INFO]: UUID of player PertyPanckes_YT is b79b1e2b-27b9-3bcb-9de2-310bc60e7edc
+[18:37:15] [Server thread/INFO]: PertyPanckes_YT[/10.104.7.36:56405] logged in with entity id 5 at ([world]1206.0816253933267, 29.0, 1572.209223084317)
+[18:37:19] [Server thread/INFO]: PertyPanckes_YT issued server command: /weather clear
+[18:37:19] [Server thread/INFO]: [PertyPanckes_YT: Changing to clear weather]
+[18:38:25] [Server thread/INFO]: PertyPanckes_YT issued server command: //wand
+[18:38:35] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 5
+[18:45:52] [Server thread/INFO]: PertyPanckes_YT issued server command: /weather clear
+[18:45:52] [Server thread/INFO]: [PertyPanckes_YT: Changing to clear weather]
+[18:46:18] [Server thread/INFO]: PertyPanckes_YT issued server command: //replace 0 5
+[18:50:14] [Server thread/INFO]: PertyPanckes_YT issued server command: //replace 0 5
+[18:50:21] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[18:50:32] [Server thread/INFO]: PertyPanckes_YT issued server command: //replace 0 5
+[18:50:57] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 0
+[18:51:00] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[18:51:35] [Server thread/INFO]: PertyPanckes_YT issued server command: /weather clear
+[18:51:35] [Server thread/INFO]: [PertyPanckes_YT: Changing to clear weather]
+[18:52:24] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 1
+[18:52:51] [Async Chat Thread - #0/INFO]: [0;36;22m[Dev] PertyPanckes_YT[0;33;1m > [0;37;1mtest[m
+[18:53:08] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 2
+[18:53:58] [Server thread/INFO]: PertyPanckes_YT issued server command: //replace 0 13
+[18:54:21] [Server thread/INFO]: PertyPanckes_YT issued server command: //replace 0 13
+[18:54:46] [Server thread/INFO]: PertyPanckes_YT issued server command: //replace 0 2
+[18:57:04] [Server thread/INFO]: PertyPanckes_YT issued server command: /weather clear
+[18:57:04] [Server thread/INFO]: [PertyPanckes_YT: Changing to clear weather]
+[18:58:08] [Server thread/INFO]: PertyPanckes_YT issued server command: //wand
+[18:59:21] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 5:1
+[18:59:49] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 5:1
+[18:59:54] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 5:1
+[19:00:42] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 5:1
+[19:00:48] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 5:1
+[19:01:17] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 5:1
+[19:10:04] [Server thread/INFO]: PertyPanckes_YT issued server command: /weather clear
+[19:10:04] [Server thread/INFO]: [PertyPanckes_YT: Changing to clear weather]
+[19:13:17] [Server thread/INFO]: PertyPanckes_YT issued server command: //replace 0 5:1
+[19:15:10] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 5:1
+[19:15:28] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 5:1
+[19:15:35] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 5:1
+[19:15:43] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 5:1
+[19:16:16] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 0
+[19:17:54] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 17:1
+[19:18:09] [Server thread/INFO]: PertyPanckes_YT issued server command: /gamerule doMobSpawning
+[19:18:12] [Server thread/INFO]: PertyPanckes_YT issued server command: /gamerule doMobSpawning false
+[19:18:12] [Server thread/INFO]: [PertyPanckes_YT: Game rule has been updated]
+[19:18:18] [Server thread/INFO]: PertyPanckes_YT issued server command: /gamerule doMobLoot false
+[19:18:18] [Server thread/INFO]: [PertyPanckes_YT: Game rule has been updated]
+[19:19:32] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 0
+[19:19:37] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 0
+[19:19:40] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 0
+[19:19:45] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 0
+[19:21:03] [Server thread/INFO]: PertyPanckes_YT issued server command: //wand
+[19:21:11] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 0
+[19:23:31] [Server thread/INFO]: PertyPanckes_YT issued server command: /weather clear
+[19:23:31] [Server thread/INFO]: [PertyPanckes_YT: Changing to clear weather]
+[19:34:57] [Server thread/INFO]: PertyPanckes_YT issued server command: /weather clear
+[19:34:57] [Server thread/INFO]: [PertyPanckes_YT: Changing to clear weather]
+[19:38:31] [Server thread/INFO]: PertyPanckes_YT issued server command: /time set night
+[19:38:31] [Server thread/INFO]: [PertyPanckes_YT: Set the time to 13000]
+[19:38:36] [Server thread/INFO]: PertyPanckes_YT issued server command: /time set day
+[19:38:36] [Server thread/INFO]: [PertyPanckes_YT: Set the time to 1000]
+[19:41:20] [Server thread/INFO]: PertyPanckes_YT issued server command: //wand
+[19:41:34] [Server thread/INFO]: PertyPanckes_YT issued server command: //copy
+[19:41:41] [Server thread/INFO]: PertyPanckes_YT issued server command: //paste
+[19:42:03] [Server thread/INFO]: PertyPanckes_YT issued server command: //paste
+[19:42:48] [Server thread/INFO]: PertyPanckes_YT issued server command: /up 1
+[19:43:35] [Server thread/INFO]: PertyPanckes_YT issued server command: /up 1
+[19:44:03] [Server thread/INFO]: PertyPanckes_YT issued server command: /up 1
+[19:47:07] [Server thread/INFO]: PertyPanckes_YT issued server command: /weather clear
+[19:47:07] [Server thread/INFO]: [PertyPanckes_YT: Changing to clear weather]
+[19:47:08] [Server thread/INFO]: PertyPanckes_YT issued server command: /we
+[19:48:21] [Server thread/INFO]: PertyPanckes_YT lost connection: Internal Exception: java.io.IOException: Удаленный хост принудительно разорвал существующее подключение
+[19:48:21] [Server thread/INFO]: PertyPanckes_YT left the game.
+[19:56:13] [Thread-14/INFO]: UUID of player PertyPanckes_YT is b79b1e2b-27b9-3bcb-9de2-310bc60e7edc
+[19:56:13] [Server thread/INFO]: PertyPanckes_YT[/10.104.7.36:57575] logged in with entity id 9 at ([world]1204.643244120902, 38.606196181619765, 1562.7522432547105)
+[19:57:28] [Server thread/INFO]: PertyPanckes_YT issued server command: //wand
+[19:57:43] [Server thread/INFO]: PertyPanckes_YT issued server command: //replace 0 13
+[20:00:25] [Server thread/INFO]: PertyPanckes_YT issued server command: //sp area 1
+[20:01:23] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 1
+[20:01:26] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 2
+[20:01:39] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:01:42] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:01:50] [Server thread/INFO]: PertyPanckes_YT issued server command: /weather clear
+[20:01:50] [Server thread/INFO]: [PertyPanckes_YT: Changing to clear weather]
+[20:02:28] [Server thread/INFO]: PertyPanckes_YT issued server command: //replace 0 13
+[20:02:37] [Server thread/INFO]: PertyPanckes_YT issued server command: /none
+[20:02:41] [Server thread/INFO]: PertyPanckes_YT issued server command: //replace 0 13
+[20:02:44] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:02:46] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:02:47] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:02:50] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:02:57] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:02:58] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:02:58] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:02:58] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:02:59] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:02:59] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:03:00] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:03:01] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:03:59] [Server thread/INFO]: PertyPanckes_YT issued server command: //replace 0 13
+[20:05:54] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:06:51] [Server thread/INFO]: PertyPanckes_YT issued server command: //sp area 2
+[20:06:58] [Server thread/INFO]: PertyPanckes_YT issued server command: //sp area 1
+[20:07:02] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:07:21] [Server thread/INFO]: PertyPanckes_YT issued server command: //replace 0 13
+[20:07:28] [Async Chat Thread - #1/INFO]: [0;36;22m[Dev] PertyPanckes_YT[0;33;1m > [0;37;1mхуета[m
+[20:08:09] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:08:10] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:08:10] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:08:11] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:08:11] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:08:11] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:08:11] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:08:12] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:08:13] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:08:13] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:08:14] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:08:14] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:08:15] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:08:15] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:08:15] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:08:21] [Async Chat Thread - #1/INFO]: [0;36;22m[Dev] PertyPanckes_YT[0;33;1m > [0;37;1mdone[m
+[20:08:23] [Async Chat Thread - #1/INFO]: [0;36;22m[Dev] PertyPanckes_YT[0;33;1m > [0;37;1mnaxui[m
+[20:08:43] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 0
+[20:09:00] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 0
+[20:09:38] [Server thread/INFO]: PertyPanckes_YT issued server command: //copy
+[20:10:24] [Server thread/INFO]: PertyPanckes_YT issued server command: //paste
+[20:10:29] [Async Chat Thread - #2/INFO]: [0;36;22m[Dev] PertyPanckes_YT[0;33;1m > [0;37;1mесли ляжет я шатал[m
+[20:10:35] [Async Chat Thread - #2/INFO]: [0;36;22m[Dev] PertyPanckes_YT[0;33;1m > [0;37;1mда ну нахуй[m
+[20:10:37] [Async Chat Thread - #2/INFO]: [0;36;22m[Dev] PertyPanckes_YT[0;33;1m > [0;37;1mне лёг[m
+[20:10:41] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:10:54] [Server thread/INFO]: PertyPanckes_YT issued server command: //paste
+[20:11:06] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:11:13] [Server thread/INFO]: PertyPanckes_YT issued server command: //paste
+[20:11:40] [Server thread/INFO]: PertyPanckes_YT issued server command: //paste
+[20:11:42] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:11:43] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:11:45] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:11:51] [Server thread/INFO]: PertyPanckes_YT issued server command: //paste
+[20:12:05] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:12:20] [Server thread/INFO]: PertyPanckes_YT issued server command: //paste
+[20:12:42] [Server thread/INFO]: PertyPanckes_YT issued server command: //sp area 20
+[20:12:45] [Server thread/INFO]: PertyPanckes_YT issued server command: //sp area 5
+[20:12:48] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:13:18] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 0
+[20:13:44] [Server thread/INFO]: PertyPanckes_YT issued server command: //set 2
+[20:13:59] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:14:00] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:14:01] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:14:11] [Server thread/INFO]: PertyPanckes_YT issued server command: //sphere
+[20:14:27] [Server thread/INFO]: PertyPanckes_YT issued server command: /spawnpoint
+[20:14:27] [Server thread/INFO]: [PertyPanckes_YT: Set PertyPanckes_YT's spawn point to (1263, 29, 1603)]
+[20:14:47] [Server thread/INFO]: PertyPanckes_YT issued server command: //sphere 2
+[20:14:49] [Server thread/INFO]: PertyPanckes_YT issued server command: //sphere 2 2
+[20:14:51] [Server thread/INFO]: PertyPanckes_YT issued server command: /kill
+[20:14:51] [Server thread/INFO]: PertyPanckes_YT fell out of the world
+[20:14:51] [Server thread/INFO]: [PertyPanckes_YT: Killed PertyPanckes_YT]
+[20:14:56] [Server thread/INFO]: PertyPanckes_YT issued server command: /weather clear
+[20:14:56] [Server thread/INFO]: [PertyPanckes_YT: Changing to clear weather]
+[20:15:10] [Server thread/INFO]: PertyPanckes_YT issued server command: //undo
+[20:15:14] [Server thread/INFO]: PertyPanckes_YT issued server command: /gamerule keepInventory
+[20:15:16] [Server thread/INFO]: PertyPanckes_YT issued server command: /gamerule keepInventory true
+[20:15:16] [Server thread/INFO]: [PertyPanckes_YT: Game rule has been updated]
+[20:15:31] [Server thread/INFO]: PertyPanckes_YT issued server command: //sphere 1 4
+[20:15:33] [Server thread/INFO]: PertyPanckes_YT issued server command: /kill
+[20:15:33] [Server thread/INFO]: PertyPanckes_YT fell out of the world
+[20:15:33] [Server thread/INFO]: [PertyPanckes_YT: Killed PertyPanckes_YT]
+[20:15:43] [Server thread/INFO]: PertyPanckes_YT issued server command: //sphere 1 4
+[20:15:44] [Server thread/INFO]: PertyPanckes_YT issued server command: /kill
+[20:15:44] [Server thread/INFO]: PertyPanckes_YT fell out of the world
+[20:15:44] [Server thread/INFO]: [PertyPanckes_YT: Killed PertyPanckes_YT]
+[20:15:59] [Server thread/INFO]: PertyPanckes_YT issued server command: //sphere 1 4
+[20:16:00] [Server thread/INFO]: PertyPanckes_YT issued server command: /kill
+[20:16:00] [Server thread/INFO]: PertyPanckes_YT fell out of the world
+[20:16:00] [Server thread/INFO]: [PertyPanckes_YT: Killed PertyPanckes_YT]
+[20:16:10] [Server thread/INFO]: PertyPanckes_YT issued server command: //sphere 1 4
+[20:16:11] [Server thread/INFO]: PertyPanckes_YT issued server command: /kill
+[20:16:11] [Server thread/INFO]: PertyPanckes_YT fell out of the world
+[20:16:11] [Server thread/INFO]: [PertyPanckes_YT: Killed PertyPanckes_YT]
+[20:16:20] [Server thread/INFO]: PertyPanckes_YT issued server command: //sphere 1 4
+[20:16:21] [Server thread/INFO]: PertyPanckes_YT issued server command: /kill
+[20:16:21] [Server thread/INFO]: PertyPanckes_YT fell out of the world
+[20:16:21] [Server thread/INFO]: [PertyPanckes_YT: Killed PertyPanckes_YT]
+[20:16:27] [Server thread/INFO]: PertyPanckes_YT issued server command: /home
+[20:16:32] [Server thread/INFO]: PertyPanckes_YT issued server command: //sphere 1 4
+[20:16:33] [Server thread/INFO]: PertyPanckes_YT issued server command: /home
+[20:16:36] [Server thread/INFO]: PertyPanckes_YT issued server command: /kill
+[20:16:36] [Server thread/INFO]: PertyPanckes_YT fell out of the world
+[20:16:36] [Server thread/INFO]: [PertyPanckes_YT: Killed PertyPanckes_YT]
+[20:16:45] [Server thread/INFO]: PertyPanckes_YT issued server command: //sphere 1 4
+[20:16:46] [Server thread/INFO]: PertyPanckes_YT issued server command: /kill
+[20:16:46] [Server thread/INFO]: PertyPanckes_YT fell out of the world
+[20:16:46] [Server thread/INFO]: [PertyPanckes_YT: Killed PertyPanckes_YT]
+[20:16:56] [Server thread/INFO]: PertyPanckes_YT issued server command: //sphere 1 4
+[20:16:57] [Server thread/INFO]: PertyPanckes_YT issued server command: /kill
+[20:16:57] [Server thread/INFO]: PertyPanckes_YT fell out of the world
+[20:16:57] [Server thread/INFO]: [PertyPanckes_YT: Killed PertyPanckes_YT]
+[20:17:06] [Server thread/INFO]: PertyPanckes_YT issued server command: //sphere 1 4
+[20:17:07] [Server thread/INFO]: PertyPanckes_YT issued server command: /kill
+[20:17:07] [Server thread/INFO]: PertyPanckes_YT fell out of the world
+[20:17:07] [Server thread/INFO]: [PertyPanckes_YT: Killed PertyPanckes_YT]
+[20:17:16] [Server thread/INFO]: PertyPanckes_YT issued server command: /spawnpoint
+[20:17:16] [Server thread/INFO]: [PertyPanckes_YT: Set PertyPanckes_YT's spawn point to (1298, 29, 1548)]
+[20:17:21] [Server thread/INFO]: PertyPanckes_YT issued server command: //sphere 1 4
+[20:17:23] [Server thread/INFO]: PertyPanckes_YT issued server command: /kill
+[20:17:23] [Server thread/INFO]: PertyPanckes_YT fell out of the world
+[20:17:23] [Server thread/INFO]: [PertyPanckes_YT: Killed PertyPanckes_YT]
+[20:17:28] [Server thread/INFO]: PertyPanckes_YT issued server command: //sphere 1 4
+[20:17:29] [Server thread/INFO]: PertyPanckes_YT issued server command: /kill
+[20:17:29] [Server thread/INFO]: PertyPanckes_YT fell out of the world
+[20:17:29] [Server thread/INFO]: [PertyPanckes_YT: Killed PertyPanckes_YT]
+[20:17:36] [Server thread/INFO]: PertyPanckes_YT issued server command: //sphere 1 4
+[20:17:36] [Server thread/INFO]: PertyPanckes_YT issued server command: /kill
+[20:17:36] [Server thread/INFO]: PertyPanckes_YT fell out of the world
+[20:17:36] [Server thread/INFO]: [PertyPanckes_YT: Killed PertyPanckes_YT]
+[20:17:42] [Server thread/INFO]: PertyPanckes_YT issued server command: //sphere 1 4
+[20:17:43] [Server thread/INFO]: PertyPanckes_YT issued server command: /kill
+[20:17:43] [Server thread/INFO]: PertyPanckes_YT fell out of the world
+[20:17:43] [Server thread/INFO]: [PertyPanckes_YT: Killed PertyPanckes_YT]
+[20:17:54] [Server thread/INFO]: PertyPanckes_YT issued server command: //sphere 1 4
+[20:17:55] [Server thread/INFO]: PertyPanckes_YT issued server command: /kill
+[20:17:55] [Server thread/INFO]: PertyPanckes_YT fell out of the world
+[20:17:55] [Server thread/INFO]: [PertyPanckes_YT: Killed PertyPanckes_YT]
+[20:18:06] [Server thread/INFO]: PertyPanckes_YT issued server command: //sp area 1
+[20:19:37] [Server thread/INFO]: PertyPanckes_YT issued server command: //up 1
+[20:19:39] [Server thread/INFO]: PertyPanckes_YT issued server command: //wand
+[20:19:53] [Server thread/INFO]: PertyPanckes_YT issued server command: //up 1
+[20:20:05] [Server thread/INFO]: PertyPanckes_YT issued server command: //replace 1 35:8
+[20:23:22] [Server thread/INFO]: PertyPanckes_YT issued server command: //replace 0 13
+[20:24:04] [Server thread/INFO]: PertyPanckes_YT issued server command: /weather clear
+[20:24:04] [Server thread/INFO]: [PertyPanckes_YT: Changing to clear weather]
+[20:37:11] [Server thread/INFO]: PertyPanckes_YT issued server command: /weather clear
+[20:37:11] [Server thread/INFO]: [PertyPanckes_YT: Changing to clear weather]
+[21:51:19] [Thread-15/INFO]: UUID of player SuLGik is 1a1230f5-1a6d-3fce-90fa-73158407009c
+[21:51:19] [Server thread/INFO]: SuLGik[/10.104.16.45:59897] logged in with entity id 21 at ([world]1159.2899760800974, 31.50714743316234, 1534.1141237571298)
+[21:51:45] [Server thread/INFO]: SuLGik issued server command: /kill PertyPanckes_YT
+[21:51:45] [Server thread/INFO]: PertyPanckes_YT fell out of the world
+[21:51:45] [Server thread/INFO]: [SuLGik: Killed PertyPanckes_YT]
+[21:55:22] [Server thread/INFO]: SuLGik has just earned the achievement [Taking Inventory]
+[21:57:48] [Server thread/INFO]: SuLGik issued server command: /tp PertyPanckes_YT
+[21:57:48] [Server thread/INFO]: [SuLGik: Teleported SuLGik to PertyPanckes_YT]
+[21:57:58] [Server thread/INFO]: SuLGik lost connection: Disconnected
+[21:57:58] [Server thread/INFO]: SuLGik left the game.
+[21:58:51] [Server thread/INFO]: Stopping the server
+[21:58:51] [Server thread/INFO]: Stopping server
+[21:58:51] [Server thread/INFO]: [PertyCraft] Disabling PertyCraft v1.0
+[21:58:51] [Server thread/INFO]: [PertyCraft] Disabled!
+[21:58:51] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.2;b3fbe8b
+[21:58:51] [Server thread/INFO]: [PertyCraftNetwork] Disabling PertyCraftNetwork v2.0
+[21:58:51] [Server thread/INFO]: [PertyCraftNetwork] Disabled!
+[21:58:51] [Server thread/INFO]: Saving players
+[21:58:51] [Server thread/INFO]: PertyPanckes_YT lost connection: Server closed
+[21:58:51] [Server thread/INFO]: PertyPanckes_YT left the game.
+[21:58:51] [Server thread/INFO]: Saving worlds
+[21:58:51] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
